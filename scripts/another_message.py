@@ -1,4 +1,7 @@
 #!/usr/bin/python3
 
-if __name__ == "__main__":
+def main():
     print("Another Message")
+
+if __name__ == "__main__":
+    main()
